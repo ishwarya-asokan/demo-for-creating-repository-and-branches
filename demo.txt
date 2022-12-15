@@ -58,21 +58,11 @@ disadvantage/ limitation
 
 by ovecoming by using third party tools 
 
-
-
-
 desktop app{stand alone] window based -ex notepad calculator ms paint excel/ download and install in window - 
 
 web based - browser
 
-
-
-
-
-
-
-
-
-
-
 non functional testing
+
+link feauture selinium
+
