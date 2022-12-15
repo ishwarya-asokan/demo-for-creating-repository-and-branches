@@ -1,2 +1,2 @@
 # selenium_excercise
-this repository is to automation code or selenium
+this repository is to create automation code for selenium
