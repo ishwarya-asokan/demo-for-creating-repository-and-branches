@@ -1,0 +1,78 @@
+manual testing - testing case according to customer requirement- actual o/p & expected o/p
+time and efort in complex test
+
+functional testting
+
+selunium -behaviour of application
+object property, butten, link ,textbox, ui box, database checking, error handling
+
+re-testing execute same test case with multiple set of data
+re-regression execting revalidting defects in newer builds and because of those fixesmake sure there is no side effect
+
+
+qtp/uft  and selunium - functional testing tools
+
+performance testing- jmeter, loadrunner - bug tracting tools
+
+test management tool - quality center ,msvstp
+maintain tests cases
+reporting deects
+executin tools
+report generates
+
+DEEfeCT reporting tools-bugzilla ,jeera, bug tracker,remedy,devack
+
+jira - test managements ,defect management ,dasboard  
+
+
+selinium?
+selinium is functional and regresssion testing tool -automate test cases
+
+->set of components/tools
+->is a suite which contain multiple comppnents
+
+selunium suite
+------------
+selunium IDE
+selunium rc
+selunium webdriver
+selunium grid
+
+
+advvantage
+1 open source free application
+2 it support multiple language java python c# ruby
+3 support mutiple operating system window linus mac os
+4 support multiple browser chrome fireox ie
+5 parallel testing
+6 can integrates other third party tools testNG cucumber maven jenkins Git Git hub
+
+
+disadvantage/ limitation
+
+1 support web based application and not window based application  overcome Autoit, sikuli
+2 dont have dedicated support - forum availabel
+3 dont have reporting mechanism testNg Extends
+4 images graph are not supported - certain level
+
+
+by ovecoming by using third party tools 
+
+
+
+
+desktop app{stand alone] window based -ex notepad calculator ms paint excel/ download and install in window - 
+
+web based - browser
+
+
+
+
+
+
+
+
+
+
+
+non functional testing
